@@ -1,6 +1,11 @@
-node_modules
-dist
+# Replit/IDE
+.replit
+.vscode/
 .DS_Store
-server/public
-vite.config.ts.*
-*.tar.gz
+
+# Node.js (if used)
+node_modules/
+dist/
+
+# Environment variables
+.env
